@@ -22,8 +22,8 @@ This Python script utilizes the `pypresence` library to set up and update Discor
 1. Install the required libraries using the following command:
 
    ```bash
-   pip install -r requirements.txt
    cd [parent_directory_of_project]/Discord-RPC-main/Discord-RPC-main
+   pip install -r requirements.txt
    python Discord_Rpc.py
 Run the script and follow the prompts to input your Discord client ID, details, state, images, text, and buttons.
 
